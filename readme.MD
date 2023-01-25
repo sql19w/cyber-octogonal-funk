@@ -1,6 +1,7 @@
 # cyber-octogonal-funk
 
-
+## Contents
+Forest fires: Multidimensional scaling on Mahalanobis distance matrix
 
 
 ### Forest fires: Multidimensional scaling on Mahalanobis distance matrix
