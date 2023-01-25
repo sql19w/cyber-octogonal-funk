@@ -9,7 +9,8 @@ The dataset describes forest fires from climatic variables such as maximum tempe
 
 To better comprehend the fires, I performed a dissimilarity analysis between them. For this, I built a Mahalanobis distance matrix and performed multidimensional scaling from it. Mahalanobis distance was computed between each observation regarding every other observation in the dataset, resulting in an nxn matrix. I do not recommend doing this on larger datasets. The function I used to construct such matrix goes as follows:
 
-´´´
+
+```
 mahalanobis_dist <- function(x){
   x <- as.matrix(x)
   S <- cov1(x)
@@ -26,7 +27,7 @@ mahalanobis_dist <- function(x){
   }
   return(matriz)
 }
-´´´
+```
 
 I also ran mds on the features correlation matrix, to better understand how the FWI indices were composed. For this purpose, I performed principal components analysis too.
 
