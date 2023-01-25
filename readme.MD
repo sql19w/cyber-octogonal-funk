@@ -1,5 +1,9 @@
 # cyber-octogonal-funk
 
+## About me
+
+&nbsp;
+
 ## Contents
 [Forest fires: Multidimensional scaling on Mahalanobis distance matrix](https://github.com/sql19w/cyber-octogonal-funk/blob/main/readme.MD#forest-fires-multidimensional-scaling-on-mahalanobis-distance-matrix)
 
