@@ -1,2 +1,2 @@
 # cyber-octogonal-funk
-analysis stuff
+my own analysis stuff here
