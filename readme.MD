@@ -36,6 +36,6 @@ I'll be working on a time series approach which I hope I'll be able to share sho
 
 For more info on the dataset, please visit: https://archive.ics.uci.edu/ml/datasets/Algerian+Forest+Fires+Dataset++
 
-* [dataset](https://github.com/sql19w/cyber-octogonal-funk/blob/main/forest_fires_data.csv)
+* [Dataset](https://github.com/sql19w/cyber-octogonal-funk/blob/main/forest_fires_data.csv)
 * [R script](https://github.com/sql19w/cyber-octogonal-funk/blob/main/forest_fires.R)
 * [Full report (please translate it using AI)](https://github.com/sql19w/cyber-octogonal-funk/blob/main/forest_fires_report.pdf)
