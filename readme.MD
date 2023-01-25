@@ -8,7 +8,9 @@
 &nbsp;
 &nbsp;
 &nbsp;
-
+&nbsp;
+&nbsp;
+&nbsp;
 ### Forest fires: Multidimensional scaling on Mahalanobis distance matrix
 
 The dataset describes forest fires from climatic variables such as maximum temperature, windspeed and relative humidity as well as FWI indices, observed over a six month period.
