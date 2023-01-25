@@ -13,7 +13,7 @@ require(rpart.plot)
 require(e1071)
 
 #lectura datos
-df <- read.csv("data.csv",sep=";")
+df <- read.csv("algerian_forest_fires_data.csv",sep=";")
 df <- df[1:122,5:ncol(df)-1]
 
 colnames(df) <- c("temp","RH","Ws","Rain","FFMC","DMC","DC","ISI","BUI","FWI","incendio" )
