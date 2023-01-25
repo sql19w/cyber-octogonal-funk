@@ -28,10 +28,9 @@ mahalanobis_dist <- function(x){
   return(matriz)
 }
 ```
+Additionally, I utilized multidimensional scaling on the features (climatic + FWI) correlation matrix, in order to gain a clearer understanding of how the indices were composed. To further supplement this analysis, I also conducted a principal components analysis.
 
-I also ran mds on the features correlation matrix, to better understand how the FWI indices were composed. For this purpose, I performed principal components analysis too.
-
-Finally, I trained some models (support vector machine, decision tree, random forest, single-layer perceptron) and evaluated their performance, prioritizing model specificity.
+Conclusively, I trained various models such as support vector machine, decision tree, random forest, and single-layer perceptron to predict the forest fires and evaluated their performance, with a strong emphasis on model specificity.
 
 I'll be working on a time series approach which I hope I'll be able to share shortly.
 
