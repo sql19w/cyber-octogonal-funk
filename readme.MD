@@ -34,7 +34,7 @@ Conclusively, I trained various models such as support vector machine, decision 
 
 I'll be working on a time series approach which I hope I'll be able to share shortly.
 
-For more info on the dataset, please visit: https://archive.ics.uci.edu/ml/datasets/Algerian+Forest+Fires+Dataset++
+## Resources
 
 * [Dataset](https://github.com/sql19w/cyber-octogonal-funk/blob/main/forest_fires_data.csv)
 * [R script](https://github.com/sql19w/cyber-octogonal-funk/blob/main/forest_fires.R)
