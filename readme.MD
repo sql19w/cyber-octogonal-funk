@@ -8,7 +8,7 @@
 
 The dataset describes forest fires from climatic variables such as maximum temperature, windspeed and relative humidity as well as FWI indices, observed over a six month period.
 
-To better comprehend the fires, I performed a dissimilarity analysis between them. For this, I built a Mahalanobis distance matrix and performed multidimensional scaling from it. Mahalanobis distance was computed between each observation regarding every other observation in the dataset, resulting in an nxn matrix. I do not recommend doing this on larger datasets. The function I used to construct such matrix goes as follows:
+To better comprehend the fires, I performed a dissimilarity analysis between them. For this, I built a Mahalanobis distance matrix and performed multidimensional scaling on it. Mahalanobis distance was computed between each observation regarding every other observation in the dataset, resulting in an nxn matrix. I do not recommend doing this on larger datasets. The function I used to construct such matrix goes as follows:
 
 
 ```
