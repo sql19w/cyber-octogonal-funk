@@ -3,7 +3,7 @@
 
 
 
-### Mahalanobis distance matrix for quick visual detection of outliers and some ML algos on forest fire classification
+### Forest fires: Multidimensional scaling on Mahalanobis distance matrix
 
 The dataset describes forest fires from climatic variables such as maximum temperature, windspeed and relative humidity as well as FWI indices, observed over a six month period.
 
