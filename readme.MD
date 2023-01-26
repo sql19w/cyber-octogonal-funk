@@ -12,7 +12,7 @@ My name is Ignacio and I am a Buenos Aires based data scientist, currently worki
 
 [XGBoost on Wisconsin diagnostic breast cancer data](https://github.com/sql19w/cyber-octogonal-funk/blob/main/readme.MD#xgboost-on-wisconsin-diagnostic-breast-cancer-data)
 
-[Exploratory data analysis on COVID-19 (Argentina)](https://github.com/sql19w/cyber-octogonal-funk/blob/main/readme.MD#exploratory-data-analysis-on-COVID-19-(Argentina))
+[Exploratory data analysis on COVID-19 (Argentina)](https://github.com/sql19w/cyber-octogonal-funk/blob/main/readme.MD#exploratory-data-analysis-on-pandemic-(Argentina))
 
 &nbsp;
 &nbsp;
@@ -71,7 +71,7 @@ I'll be working on a time series approach which I hope I'll be able to share sho
 &nbsp;
 &nbsp;
 
-### Exploratory data analysis on COVID-19 (Argentina)
+### Exploratory data analysis on pandemic (Argentina)
 
 #### Resources
 
