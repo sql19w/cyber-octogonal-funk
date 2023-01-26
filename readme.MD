@@ -24,6 +24,8 @@ My name is Ignacio and I am a Buenos Aires based data scientist, currently worki
 &nbsp;
 ### Forest fires: Multidimensional scaling on Mahalanobis distance matrix
 
+#pca #mds #mahalanobis-distance #decision-tree #random-forest #svm #neural-net #R
+
 The dataset describes forest fires from climatic variables such as maximum temperature, windspeed and relative humidity as well as FWI indices, observed over a six month period. The data includes observations from two different regions in Argelia and are time-stamped, so the problem could be addressed with a time-series approach, which I'll probably do in future posts. For simplification, I worked on one of the regions only.
 
 To better comprehend the fires, I performed a dissimilarity analysis between them. For this, I built a Mahalanobis distance matrix and performed multidimensional scaling on it. Mahalanobis distance was computed between each observation regarding every other one in the dataset, resulting in an nxn matrix. I do not recommend doing this on larger datasets. The function I used to construct such matrix goes as follows:
