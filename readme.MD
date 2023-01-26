@@ -53,6 +53,8 @@ Conclusively, I trained various models such as support vector machine, decision 
 
 I'll be working on a time series approach which I hope I'll be able to share shortly.
 
+#pca #factor-analysis #mds #svm #neural-net
+
 #### Resources
 
 * [Dataset](https://github.com/sql19w/cyber-octogonal-funk/blob/main/forest_fires_data.csv)
@@ -80,6 +82,8 @@ I'll be working on a time series approach which I hope I'll be able to share sho
 So I decided to test which seems to be one of the hottest ML algorithms nowadays.
 
 WDBC data consists of pre-processed image data on potential cancer cell biopsy. Given the nature of this case study, if we were to rely upon diagnostics based on information systems, accuracy itself sheds little light on the matter: both specificity and sensibility have to be taken in account.
+
+After performing a brief exploratory analysis and pca, 
 
 #### Resources
 
