@@ -52,6 +52,8 @@ I'll be working on a time series approach which I hope I'll be able to share sho
 * [R script](https://github.com/sql19w/cyber-octogonal-funk/blob/main/forest_fires.R)
 * [Full report (please translate it using AI)](https://github.com/sql19w/cyber-octogonal-funk/blob/main/forest_fires_report.pdf)
 
-
+&nbsp;
+&nbsp;
+&nbsp;
 
 ### XGBoost on Wisconsin diagnostic breast cancer data
