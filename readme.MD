@@ -12,7 +12,7 @@ My name is Ignacio and I am a Buenos Aires based data scientist, currently worki
 
 [Image pattern recognition using K-means](https://github.com/sql19w/cyber-octogonal-funk/blob/main/readme.MD#image-pattern-recognition-using-k-means)
 
-[Forecasting transports using LSTM](https://github.com/sql19w/cyber-octogonal-funk/blob/main/readme.MD#forecasting-transports-using-lstm)
+[Forecasting transports using LSTM](https://github.com/sql19w/cyber-octogonal-funk/blob/main/readme.MD#forecasting-transports-with-lstm)
 
 [XGBoost on Wisconsin diagnostic breast cancer data](https://github.com/sql19w/cyber-octogonal-funk/blob/main/readme.MD#xgboost-on-wisconsin-diagnostic-breast-cancer-data)
 
