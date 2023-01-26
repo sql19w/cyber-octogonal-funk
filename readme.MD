@@ -93,7 +93,7 @@ I'll be working on a time series approach which I hope I'll be able to share sho
 
 ### XGBoost on Wisconsin diagnostic breast cancer data
 
-#pca #factor-analysis #classification #glm #svm #xgboost #R
+#pca #factor-analysis #classification #logistic-regression #svm #xgboost #R
 
 <img src=https://github.com/sql19w/cyber-octogonal-funk/blob/main/xgboostmeme.png width="30%" height="30%">
 
