@@ -53,7 +53,7 @@ Conclusively, I trained various models such as support vector machine, decision 
 
 I'll be working on a time series approach which I hope I'll be able to share shortly.
 
-#pca #factor-analysis #mds #svm #neural-net
+#pca #mds #mahalanobis-distance #decision-tree #random-forest #svm #neural-net #R
 
 #### Resources
 
@@ -65,7 +65,21 @@ I'll be working on a time series approach which I hope I'll be able to share sho
 &nbsp;
 &nbsp;
 
+### Forecasting transports with LSTM
+
+#time-series #lstm #python
+
+#### Resources
+
+* [Python script](https://github.com/sql19w/cyber-octogonal-funk/blob/main/wdbc_xgboost.R)
+
+&nbsp;
+&nbsp;
+&nbsp;
+
 ### Image pattern recognition using K-means
+
+#k-means #R
 
 #### Resources
 
@@ -85,6 +99,8 @@ WDBC data consists of pre-processed image data on potential cancer cell biopsy. 
 
 After performing a brief exploratory analysis and pca, 
 
+#pca #factor-analysis #classification #glm #svm #xgboost #R
+
 #### Resources
 
 * [R script](https://github.com/sql19w/cyber-octogonal-funk/blob/main/wdbc_xgboost.R)
@@ -94,6 +110,8 @@ After performing a brief exploratory analysis and pca,
 &nbsp;
 
 ### Exploratory analysis on pandemic data
+
+#eda #regression #linear-model #R
 
 #### Resources
 
