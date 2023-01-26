@@ -10,9 +10,9 @@ My name is Ignacio and I am a Buenos Aires based data scientist, currently worki
 ### Contents
 [Forest fires: Multidimensional scaling on Mahalanobis distance matrix](https://github.com/sql19w/cyber-octogonal-funk/blob/main/readme.MD#forest-fires-multidimensional-scaling-on-mahalanobis-distance-matrix)
 
-[Forecasting transports using LSTM](https://github.com/sql19w/cyber-octogonal-funk/blob/main/readme.MD#forecasting-transports-using-lstm)
-
 [Image pattern recognition using K-means](https://github.com/sql19w/cyber-octogonal-funk/blob/main/readme.MD#image-pattern-recognition-using-k-means)
+
+[Forecasting transports using LSTM](https://github.com/sql19w/cyber-octogonal-funk/blob/main/readme.MD#forecasting-transports-using-lstm)
 
 [XGBoost on Wisconsin diagnostic breast cancer data](https://github.com/sql19w/cyber-octogonal-funk/blob/main/readme.MD#xgboost-on-wisconsin-diagnostic-breast-cancer-data)
 
@@ -71,7 +71,7 @@ I'll be working on a time series approach which I hope I'll be able to share sho
 
 ### Forecasting transports with LSTM
 
-#time-series #lstm #python
+#time-series #lstm #tensorflow #python
 
 #### Resources
 
