@@ -92,7 +92,9 @@ I'll be working on a time series approach which I hope I'll be able to share sho
 &nbsp;
 
 ### XGBoost on Wisconsin diagnostic breast cancer data
-&nbsp;
+
+#pca #factor-analysis #classification #glm #svm #xgboost #R
+
 <img src=https://github.com/sql19w/cyber-octogonal-funk/blob/main/xgboostmeme.png width="30%" height="30%">
 
 So I decided to test which seems to be one of the hottest ML algorithms nowadays.
