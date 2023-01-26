@@ -10,6 +10,8 @@ My name is Ignacio and I am a Buenos Aires based data scientist, currently worki
 ### Contents
 [Forest fires: Multidimensional scaling on Mahalanobis distance matrix](https://github.com/sql19w/cyber-octogonal-funk/blob/main/readme.MD#forest-fires-multidimensional-scaling-on-mahalanobis-distance-matrix)
 
+[Image pattern recognition using K-means](https://github.com/sql19w/cyber-octogonal-funk/blob/main/readme.MD#exploratory-analysis-on-pandemic-data)
+
 [XGBoost on Wisconsin diagnostic breast cancer data](https://github.com/sql19w/cyber-octogonal-funk/blob/main/readme.MD#xgboost-on-wisconsin-diagnostic-breast-cancer-data)
 
 [Exploratory analysis on pandemic data](https://github.com/sql19w/cyber-octogonal-funk/blob/main/readme.MD#exploratory-analysis-on-pandemic-data)
@@ -56,6 +58,16 @@ I'll be working on a time series approach which I hope I'll be able to share sho
 * [Dataset](https://github.com/sql19w/cyber-octogonal-funk/blob/main/forest_fires_data.csv)
 * [R script](https://github.com/sql19w/cyber-octogonal-funk/blob/main/forest_fires.R)
 * [Full report (please translate it using AI)](https://github.com/sql19w/cyber-octogonal-funk/blob/main/forest_fires_report.pdf)
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+### Image pattern recognition using K-means
+
+#### Resources
+
+* [R script](https://github.com/sql19w/cyber-octogonal-funk/blob/main/wdbc_xgboost.R)
 
 &nbsp;
 &nbsp;
