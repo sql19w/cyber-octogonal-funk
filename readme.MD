@@ -63,6 +63,5 @@ I'll be working on a time series approach which I hope I'll be able to share sho
 
 #### Resources
 
-* [Dataset](http://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.data)
 * [R script](https://github.com/sql19w/cyber-octogonal-funk/blob/main/wdbc_xgboost.R)
 
