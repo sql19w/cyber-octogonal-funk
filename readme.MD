@@ -1,7 +1,10 @@
 # cyber-octogonal-funk
 
 ### About me
+Hey there! I'm a Buenos Aires based data scientist, currently working in the field of logistics. 
 
+
+&nbsp;
 &nbsp;
 
 ### Contents
