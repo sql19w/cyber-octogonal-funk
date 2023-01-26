@@ -75,11 +75,7 @@ I'll be working on a time series approach which I hope I'll be able to share sho
 
 ### XGBoost on Wisconsin diagnostic breast cancer data
 
-![Alt text](https://github.com/sql19w/cyber-octogonal-funk/blob/main/xgboostmeme.png "a title")
-
-´´´
 <img src=https://github.com/sql19w/cyber-octogonal-funk/blob/main/xgboostmeme.png width="40%" height="40%">
-´´´
 
 So I decided to test which seems to be the hottest ML algo nowadays.
 
