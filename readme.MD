@@ -10,7 +10,7 @@ My name is Ignacio and I am a Buenos Aires based data scientist, currently worki
 ### Contents
 [Forest fires: Multidimensional scaling on Mahalanobis distance matrix](https://github.com/sql19w/cyber-octogonal-funk/blob/main/readme.MD#forest-fires-multidimensional-scaling-on-mahalanobis-distance-matrix)
 
-[Image pattern recognition using K-means](https://github.com/sql19w/cyber-octogonal-funk/blob/main/readme.MD#image-pattern-recognition-using-k-means)
+[Working with images using k-means and decision trees](https://github.com/sql19w/cyber-octogonal-funk/blob/main/readme.MD#working-with-images-using-k-means-and-decision-trees)
 
 [Forecasting transports using LSTM neural net](https://github.com/sql19w/cyber-octogonal-funk/blob/main/readme.MD#forecasting-transports-using-lstm-neural-net)
 
@@ -81,9 +81,9 @@ I'll be working on a time series approach which I hope I'll be able to share sho
 &nbsp;
 &nbsp;
 
-### Image pattern recognition using K-means
+### Working with images using k-means and decision trees
 
-#k-means #R
+#k-means #decision-trees #R
 
 #### Resources
 
