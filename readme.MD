@@ -10,10 +10,6 @@ My name is Ignacio and I am a Buenos Aires based data scientist, currently worki
 ### Contents
 [Forest fires: Multidimensional scaling on Mahalanobis distance matrix](https://github.com/sql19w/cyber-octogonal-funk/blob/main/readme.MD#forest-fires-multidimensional-scaling-on-mahalanobis-distance-matrix)
 
-<a href="[/texas-main-street-cities](https://github.com/sql19w/cyber-octogonal-funk/blob/main/readme.MD#forest-fires-multidimensional-scaling-on-mahalanobis-distance-matrix)" style="color : red;">
-  Forest fires: Multidimensional scaling on Mahalanobis distance matrix
-</a>
-
 [Working with images using k-means and decision trees](https://github.com/sql19w/cyber-octogonal-funk/blob/main/readme.MD#working-with-images-using-k-means-and-decision-trees)
 
 [Forecasting transports using LSTM neural net](https://github.com/sql19w/cyber-octogonal-funk/blob/main/readme.MD#forecasting-transports-using-lstm-neural-net)
