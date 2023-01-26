@@ -75,6 +75,8 @@ I'll be working on a time series approach which I hope I'll be able to share sho
 
 ### XGBoost on Wisconsin diagnostic breast cancer data
 
+I decided to test one of the ho
+
 #### Resources
 
 * [R script](https://github.com/sql19w/cyber-octogonal-funk/blob/main/wdbc_xgboost.R)
