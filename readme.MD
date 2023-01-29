@@ -10,8 +10,6 @@ My name is Ignacio and I am a Buenos Aires based data scientist, currently worki
 ### Contents
 [Forest fires: Multidimensional scaling on Mahalanobis distance matrix](https://github.com/sql19w/cyber-octogonal-funk/blob/main/readme.MD#forest-fires-multidimensional-scaling-on-mahalanobis-distance-matrix)
 
-[Demand forecasting with LSTM neural net](https://github.com/sql19w/cyber-octogonal-funk/blob/main/readme.MD#demand-forecasting-with-lstm-neural-net)
-
 [Working with images using k-means and decision trees](https://github.com/sql19w/cyber-octogonal-funk/blob/main/readme.MD#working-with-images-using-k-means-and-decision-trees)
 
 [XGBoost on Wisconsin diagnostic breast cancer data](https://github.com/sql19w/cyber-octogonal-funk/blob/main/readme.MD#xgboost-on-wisconsin-diagnostic-breast-cancer-data)
@@ -62,18 +60,6 @@ I'll be working on a time series approach which I hope I'll be able to share sho
 * [Dataset](https://github.com/sql19w/cyber-octogonal-funk/blob/main/forest_fires_data.csv)
 * [R script](https://github.com/sql19w/cyber-octogonal-funk/blob/main/forest_fires.R)
 * [Full report (please translate it using AI)](https://github.com/sql19w/cyber-octogonal-funk/blob/main/forest_fires_report.pdf)
-
-&nbsp;
-&nbsp;
-&nbsp;
-
-### Demand forecasting with LSTM neural net
-
-#time-series #lstm #tensorflow #python
-
-#### Resources
-
-* [Python script](https://github.com/sql19w/cyber-octogonal-funk/blob/main/wdbc_xgboost.R)
 
 &nbsp;
 &nbsp;
