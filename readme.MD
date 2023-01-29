@@ -81,13 +81,9 @@ I'll be working on a time series approach which I hope I'll be able to share sho
 
 #pca #factor-analysis #classification #logistic-regression #svm #xgboost #R
 
-<img src=https://github.com/sql19w/cyber-octogonal-funk/blob/main/xgboostmeme.png width="30%" height="30%">
-
-So I decided to test what seems to be one of the hottest ML algorithms nowadays.
-
 WDBC data consists of pre-processed image data on potential cancer cell biopsy. Given the nature of this case study, if we were to rely upon diagnostics based on information systems, accuracy itself sheds little light on the matter: both specificity and sensibility have to be taken in account.
 
-After performing a brief exploratory analysis including pca and factor analysis, I mounted a state of the art xgboost implementation (validation set, k-fold, hyperparameters tuning via grid search) and compared them against baseline models (namely logistic regression and support vector machine). Results below!  :arrow_down: :arrow_down: :arrow_down:
+After performing a brief exploratory analysis including pca and factor analysis, I mounted a state of the art xgboost implementation (validation set, k-fold, hyperparameters tuning via grid search) and compared them against baseline models (namely logistic regression and support vector machine). 
 
 #pca #factor-analysis #classification #logistic-regression #svm #xgboost #R
 
