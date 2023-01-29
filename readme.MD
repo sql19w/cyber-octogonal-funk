@@ -71,7 +71,8 @@ I'll be working on a time series approach which I hope I'll be able to share sho
 
 #### Resources
 
-* [Dataset](https://github.com/sql19w/cyber-octogonal-funk/blob/main/optdigits.tra)
+* [Dataset: numbers](https://github.com/sql19w/cyber-octogonal-funk/blob/main/optdigits.tra)
+* [Dataset: crab jpeg](https://github.com/sql19w/cyber-octogonal-funk/blob/main/cangrejo.jpg)
 
 &nbsp;
 &nbsp;
