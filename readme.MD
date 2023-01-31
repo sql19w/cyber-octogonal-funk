@@ -8,7 +8,7 @@ My name is Ignacio and I am a Buenos Aires based data scientist, currently worki
 ### Contents
 [Forest fires: Multidimensional scaling on Mahalanobis distance matrix](https://github.com/sql19w/cyber-octogonal-funk/blob/main/readme.MD#forest-fires-multidimensional-scaling-on-mahalanobis-distance-matrix)
 
-[Working with images using k-means and decision trees]((https://github.com/sql19w/cyber-octogonal-funk/blob/main/readme.MD#edge-detection-using-k-means--classifying-hand-written-numbers-with-decision-tree-and-neural-network)
+[Edge detection using k-means & classifying hand written numbers with decision tree and neural network](https://github.com/sql19w/cyber-octogonal-funk/blob/main/readme.MD#edge-detection-using-k-means--classifying-handwritten-numbers-with-decision-tree-and-neural-network)
 
 [XGBoost on Wisconsin diagnostic breast cancer data](https://github.com/sql19w/cyber-octogonal-funk/blob/main/readme.MD#xgboost-on-wisconsin-diagnostic-breast-cancer-data)
 
@@ -63,7 +63,7 @@ I'll be working on a time series approach which I hope I'll be able to share sho
 &nbsp;
 &nbsp;
 
-### Edge detection using k-means & classifying hand written numbers with decision tree and neural network
+### Edge detection using k-means & classifying handwritten numbers with decision tree and neural network
 
 #k-means #decision-trees #R
 
