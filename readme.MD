@@ -1,5 +1,3 @@
-# cyber-octogonal-funk
-
 ### Hey there!
 My name is Ignacio and I am a Buenos Aires based data scientist, currently working in the field of logistics. With a strong background in statistical analysis and machine learning, I am passionate about uncovering insights from data and utilizing them to drive business decisions. In addition to my professional work, I also enjoy delving into side projects to stay current on the latest technologies and techniques. I'm particulary interested in medical data, life and social sciences. Below you'll find short readings about some of my side projects that showcase my skills and interests. Whether it's experimenting with new technologies or simply showcasing my skills, I am always looking for new challenges and opportunities to grow as a data scientist. So have a look around and feel free to reach out if you have any questions or want to collaborate on a project 😎.
 
