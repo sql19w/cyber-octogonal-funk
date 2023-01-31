@@ -63,7 +63,7 @@ I'll be working on a time series approach which I hope I'll be able to share sho
 &nbsp;
 &nbsp;
 
-### Working with images: Edge detection using k-means & classifying hand written numbers with decision tree and neural network
+### Edge detection using k-means & classifying hand written numbers with decision tree and neural network
 
 #k-means #decision-trees #R
 
